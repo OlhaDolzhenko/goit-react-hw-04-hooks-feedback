@@ -1,0 +1,12 @@
+.button {
+  margin-right: 10px;
+  text-transform: capitalize;
+  width: 60px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  border: 2px solid;
+  border-radius: 4px;
+}
